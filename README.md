@@ -8,3 +8,4 @@
 |05|Rock Paper Scissors Game|https://pa-rock-paper-scissors-game.netlify.app/|
 |06|Jokes Generator|https://pa-joke-generator.netlify.app/|
 |07|QR Generator|https://pa-qr-code-generator.netlify.app/|
+|08|ShadeUp|https://pa-shadeup.netlify.app/|
