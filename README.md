@@ -11,3 +11,4 @@
 |08|ShadeUp|https://pa-shadeup.netlify.app/|
 |09|Age Calculator|https://pa-agecalculator.netlify.app/|
 |10|Basic Counter|https://pa-basic-counter.netlify.app/|
+|11|Binary to Decimal Conversion|https://pa-binarytodecimal.netlify.app/|
