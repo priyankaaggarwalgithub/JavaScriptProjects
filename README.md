@@ -12,3 +12,5 @@
 |09|Age Calculator|https://pa-agecalculator.netlify.app/|
 |10|Basic Counter|https://pa-basic-counter.netlify.app/|
 |11|Binary to Decimal Conversion|https://pa-binarytodecimal.netlify.app/|
+|12|Click the button|https://pa-clickthebutton.netlify.app|
+|13|See What You Type|https://pa-see-what-you-type.netlify.app/|
