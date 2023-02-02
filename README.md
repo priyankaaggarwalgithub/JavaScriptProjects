@@ -1,4 +1,4 @@
-# JavaScript-Projects
+## JavaScript-Projects
 |SrNo.|Project Name| Live Link|
 |:---:|:---:|:---:|
 |01|Accordian|[Live Link](https://pa-accordian.netlify.app/)|
