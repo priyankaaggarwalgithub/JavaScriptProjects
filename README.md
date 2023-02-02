@@ -1,7 +1,7 @@
 # JavaScript-Projects
 |SrNo.|Project Name| Live Link|
 |:---:|:---:|:---:|
-|01|Accordian|https://pa-accordian.netlify.app/|
+|01|Accordian|[Live Link](https://pa-accordian.netlify.app/)|
 |02|Name Conversion|https://pa-name-conversion.netlify.app/|
 |03|Colour Changer|https://pa-colour-changer.netlify.app/|
 |04|Password Generator|https://pa-password-generator.netlify.app/|
