@@ -15,5 +15,5 @@
 |12|Click the button|https://pa-clickthebutton.netlify.app|
 |13|See What You Type|https://pa-see-what-you-type.netlify.app/|
 |14|Calculator|https://pa-calculator.netlify.app/|
-|15|Todo App|https://pa-todo.netlify.app/|
-|16|Quiz App|https://pa-quiz.netlify.app/|
+|15|Quiz App|https://pa-quiz.netlify.app/|
+|16|Todo App|https://pa-todo.netlify.app/|
