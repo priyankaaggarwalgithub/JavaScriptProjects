@@ -1,0 +1,49 @@
+::placeholder { 
+    color: white;
+  }
+  
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    margin-top: 10%;
+    gap: 70px;
+    background-color: black;
+    color: white;
+    
+}
+h2{
+    margin-bottom: 30px;
+    background-color: darkgoldenrod;
+    border: 2px solid  white;
+    padding: 15px 15px;
+
+}
+#result{
+    border: 2px solid  white;
+    padding: 20px 20px;
+    background-color: darkgoldenrod;
+    margin-top: 75px;
+    color: white;
+}
+
+#input-text{
+    padding: 20px 20px;
+    width: 250px;
+    text-align: center;
+    background-color: darkgoldenrod;
+    border: 2px solid  white;
+    color: white;
+    margin-top: 10px;
+}
+
+#btn{
+    padding: 20px 20px;
+    background-color: darkgoldenrod;
+    color: white;
+    border-style: none;
+    border: 2px solid white;
+
+}

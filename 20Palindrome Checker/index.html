@@ -1,0 +1,40 @@
+<html>  
+<head> <title> JavaScript Palindrome </title> 
+    <link rel="stylesheet" href="style.css" />
+</head>  
+<body>  
+  
+<div class="input">
+    <h2>Palindrome Checker</h2>
+   
+    <input type="text" id="input-text" placeholder="Enter Number or a String">
+</div>
+<div>
+    <button id="btn">Click me to get the results</button>
+    <p id="result">Result will be displayed here...</p>
+</div> 
+<script>        
+        
+    document.getElementById("btn").addEventListener("click",function(){
+    let txt = document.getElementById("input-text").value;
+    checkPalindrome(txt);
+});
+
+function checkPalindrome(txt){
+    let txt_new = txt.replace(/[^a-zA-Z0-9]/g, '').toLowerCase();
+    let len = txt_new.length;
+    let halfLen = Math.floor( len/2 );
+    let result =document.getElementById("result");
+    let i;
+
+    for( i = 0; i < halfLen; i++){
+        if( txt_new[i] !== txt_new[len-1-i]){
+            result.textContent = "Nope! Not a palindrome 🤪 ";
+            return;
+        }
+        result.textContent = "Yes! It's a palindrome 😃 ";
+    }
+}
+</script>  
+    </body>  
+        </html> 
