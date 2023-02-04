@@ -20,3 +20,4 @@
 |17|Stopwatch|[Live Link](https://pa-stopwatch.netlify.app/)|
 |18|CountDown Timer App|[Live Link](https://pa-countdown-time-app.netlify.app/)|
 |19|Word Count App|[Live Link](https://pa-word-count-app.netlify.app/)|
+|20|Palindrome Checker|[Live Link](https://pa-palindrome-checker.netlify.app/)|
