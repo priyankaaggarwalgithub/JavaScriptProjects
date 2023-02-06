@@ -1,4 +1,8 @@
+
 ## JavaScript-Projects
+
+#### This repository contains all 16 Javascript projects and other 7 projects out of 25.
+
 |SrNo.|Project Name| Live Link|
 |:---:|:---:|:---:|
 |01|Accordian|[Live Link](https://pa-accordian.netlify.app/)|
