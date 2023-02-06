@@ -23,3 +23,4 @@
 |20|Palindrome Checker|[Live Link](https://pa-palindrome-checker.netlify.app/)|
 |21|Form Validation|[Live Link](https://pa-form-validation.netlify.app/)|
 |22|Theme Changer|[Live Link](https://pa-theme-changer.netlify.app/)|
+|23|Random Quote Generator|[Live Link](https://pa-random-quote-generator.netlify.app/)|
