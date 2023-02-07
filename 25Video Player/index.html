@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>custom video player</title>
+	<link rel="stylesheet" href="style.css">
+	<meta name="viewport" content="width=device-width , initial-scale=1">
+	<link rel="shortcut icon" href="#">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+
+	<div class="main">
+		<div class="video">
+			<video id="video_player">
+            <source src="music/video1.mp4" type="video/mp4">
+         </video>
+			<!-- controls part -->
+			<div class="controlls">
+				<button data-skip="-3" id="skip_backward"><i class="fa fa-angle-double-left" aria-hidden="true"></i></button>
+				<button id="play_pause_btn"><i class="fa fa-play" aria-hidden="true"></i></button>
+				<button data-skip="3" id="skip_forward"><i class="fa fa-angle-double-right" aria-hidden="true"></i></button>
+
+				<!-- video duration part -->
+				<div class="show_duration">
+					<p id="current_duration">0:0</p>
+					<p>/</p>
+					<p id="total_duration">0:0</p>
+				</div>
+			</div>
+		</div>
+		<!-- progress bar -->
+		<div id="progress_bar"></div>
+	</div>
+	<script src="script.js"></script>
+
+
+	<button data-skip=""></button>
+</body>
+</html>
