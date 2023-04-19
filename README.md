@@ -30,4 +30,5 @@
 |25|Video Palyer|[Live Link](https://pa-videoplayer.netlify.app/)|
 |26|Drum Kit|[Live Link](https://pa-drumkit.netlify.app/)|
 |27|Clipboard|[Live Link](https://ps-clipboard.netlify.app/)|
+|28|Slider App|[Live Link](https://pa-slider-js.netlify.app/)|
  
